@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1CRtBxusrjZRzPlBsAFYoZ1drZan8JxczuLaSfHzJ3VErr2cu9yrjt1i36uuKwIsDCcyjCQKQLa1nwdYcw/yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramesh Palani Swamy\\source\\repos\\myapi\\myapi\\myapi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramesh Palani Swamy\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
